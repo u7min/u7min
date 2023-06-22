@@ -14,8 +14,8 @@ I'm a back-end developer who loves to make web applications. However, I usually 
 
 ### 📫 Reach Me
 
-![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black)
-
+[![](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=black)](mailto:bigclouds@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=black)](https://www.linkedin.com/in/u7min)
 
 <!--
 **u7min/u7min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
